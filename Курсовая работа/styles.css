@@ -1,0 +1,42 @@
+.body {
+    font-size: 20px;
+}
+
+.text {
+    text-align: center;
+}
+
+.text_2 {
+    font-weight: bold;
+    text-align: center;
+}
+
+.image {
+    text-align: center;
+}
+
+.online_3d_viewer {
+    display: block;
+    margin: auto;
+}
+
+.card-body {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    margin: 20px 50px;
+}
+
+nav.navbar .dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+.footer {
+    height: 50pt;
+    text-align: center;
+}
+
+.navbar-dark .navbar-nav .nav-item .nav-link:focus, .navbar-dark .navbar-nav .nav-item .nav-link:hover {
+    color: white;
+}
